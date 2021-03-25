@@ -15,6 +15,7 @@ jobs:
       run: |
         npm -v
         node -v
+        nuget -v
       
     - name: echo a string
       run: echo "Hello Universe"
