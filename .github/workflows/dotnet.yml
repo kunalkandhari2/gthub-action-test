@@ -18,4 +18,4 @@ jobs:
         nuget -v
       
     - name: echo a string
-      run: echo "Hello Universe"
+      run: echo "Hello World"
